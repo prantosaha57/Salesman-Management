@@ -31,7 +31,7 @@ void insert(int id, char* name, char* phone, int hour)
         head = Sales_man;
     }
     system("cls");
-    printf("\n\t\t\Successfully inserted...\n");
+    printf("\n\t\tSuccessfully inserted...\n");
     select();
 
 
